@@ -1,0 +1,27 @@
+# idea
+
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# vscode
+
+.settings/
+.vscode/
+bin/
+.classpath
+.project
+
+# macos
+
+*.DS_Store
+
+__pycache__/
+dist/
+venv/
+
+*.pyc
+
+stats.txt
+upgrades.txt
