@@ -22,6 +22,7 @@ dist/
 venv/
 
 *.pyc
+*.pyd
 
 stats.txt
 upgrades.txt
